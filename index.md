@@ -1,5 +1,5 @@
 ---
-title: Masque Works
+title: Home
 layout: home
 ---
 
