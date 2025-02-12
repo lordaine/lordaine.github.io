@@ -9,7 +9,7 @@ layout: home
 
 ----
 <span class="fs-6">
-[Download the Latest Version](https://github.com/lordaine/masque-deploy/releases/download/v0.9.9.7/Masque-0.9.9.7-Installer.msi){: .btn }
+[Download the Latest Version](https://github.com/lordaine/masque-deploy/releases/download/v0.9.9.8/Masque-0.9.9.8-Installer.msi){: .btn }
 </span>
 
 
